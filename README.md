@@ -46,7 +46,7 @@ All character sprites in BoMGerman are **hand-painted using watercolors** and th
     <td align="center"><b>Right View</b></td>
   </tr>
   <tr>
-    <td colspan="4"><img src="heros/lea.png" alt="Player 2 Front" width="600"/></td>
+    <td colspan="4"><img src="heros/lea.png" width="600"/></td>
   </tr>
 </table>
 
@@ -59,7 +59,7 @@ All character sprites in BoMGerman are **hand-painted using watercolors** and th
     <td align="center"><b>Right View</b></td>
   </tr>
   <tr>
-    <td colspan="4"><img src="heros/sergej.png" alt="Player 2 Front" width="600"/></td>
+    <td colspan="4"><img src="heros/sergej.png" width="600"/></td>
   </tr>
 </table>
 
