@@ -78,20 +78,6 @@ All character sprites in BoMGerman are **hand-painted using watercolors** and th
 - **`Bomb`** - Explosive objects with timed detonation and particle effects
 - **`ParticleSystem`** - Visual explosion effects using particle simulation
 
-## Building the Project
-
-This project uses Code::Blocks and requires SFML 2.5.1.
-
-### Prerequisites
-- Code::Blocks IDE
-- MinGW GCC compiler
-- SFML 2.5.1 library installed at `C:/Projects/sfml/SFML-2.5.1/`
-
-### Build Instructions
-1. Open `bomgerman.cbp` in Code::Blocks
-2. Select Debug or Release build configuration
-3. Build and run the project
-
 ### SFML Libraries Used
 - `sfml-graphics`
 - `sfml-window`
